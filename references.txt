@@ -1,0 +1,8 @@
+References
+
+
+https://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/
+https://learnopencv.com/contour-detection-using-opencv-python-c/
+https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/
+https://vijayabhaskar96.medium.com/tutorial-image-classification-with-keras-flow-from-directory-and-generators-95f75ebe5720
+https://gist.github.com/Thimira/354b90d59faf8b0d758f74eae3a511e2
