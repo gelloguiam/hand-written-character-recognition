@@ -1,5 +1,5 @@
 ## To run the scripts
-1. Put the training data in [raw_training folder], put the test data in raw_test folder
+1. Put the training data in raw_training folder, put the test data in raw_test folder
 2. Run ```generate_testdata.py```, this will generate the training dataset, test dataset, and setup the test folders for the classification
 3. Sort and label the training data and place in data_training folder
 4. Segment the training data to training-validation, put the validation images in data_validation folder
