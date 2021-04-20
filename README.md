@@ -5,3 +5,6 @@
 4. Segment the training data to training-validation, put the validation images in data_validation folder
 5. Run ```retrain_inception.py```, this will export a .pb file or a keras model based on Inception-v3 architecture in inception folder
 6. Run the ```classify_characters.py```, this will import the .pb file and export individual summary of the test images
+
+## Documentation
+https://sites.google.com/up.edu.ph/guiam-cmsc-265/exercise-02
